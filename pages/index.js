@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Card, CardContent } from '@/components/ui/card';
+import { Card, CardContent } from '../components/ui/card'
 
 const FormatConverter = () => {
   const [input, setInput] = useState('');
